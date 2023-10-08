@@ -1,4 +1,4 @@
-Program Aim:  
+1) Program Aim:  
 
 The aim of this program is to demonstrate the basic structure of a C++ program and print the message "Hello world!" along with "my first program" to the console.
 
@@ -28,7 +28,7 @@ output:
 
 
 
-Program Aim:
+2) Program Aim:
 The aim of this program is to create a simple calculator that can perform basic arithmetic operations (addition, subtraction, multiplication, and division) based on user input.
 
 Program Theory:
