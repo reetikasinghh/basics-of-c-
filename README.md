@@ -1,7 +1,9 @@
-Program Aim:
+Program Aim:  
+
 The aim of this program is to demonstrate the basic structure of a C++ program and print the message "Hello world!" along with "my first program" to the console.
 
-Program Theory:
+Program Theory:  
+
 #include<iostream>: This line includes the necessary header file <iostream> to enable input and output operations in the program.
 
 using namespace std;: This line allows us to use the standard C++ library (std) without explicitly specifying it in the code. It simplifies the code by eliminating the need to prefix elements from the standard library with "std::".
@@ -15,6 +17,7 @@ cout<<"my first program";: This line prints "my first program" to the console wi
 return 0;: This statement indicates the successful termination of the program. The 0 return value signifies that the program executed without any errors.
 
 Program Conclusion:
+
 The program demonstrates the basic structure of a C++ program. When executed, it prints the following output to the console:
  output: 
 ![image](https://github.com/reetikasinghh/basics-of-c-/assets/139485681/036c0d52-5dae-49e1-a22c-f621d8418e03)
