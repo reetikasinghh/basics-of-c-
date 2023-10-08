@@ -19,6 +19,13 @@ return 0;: This statement indicates the successful termination of the program. T
 Program Conclusion:
 
 The program demonstrates the basic structure of a C++ program. When executed, it prints the following output to the console:
- output: 
+
+
+output:
+ 
 ![image](https://github.com/reetikasinghh/basics-of-c-/assets/139485681/036c0d52-5dae-49e1-a22c-f621d8418e03)
+
+
+
+
 
